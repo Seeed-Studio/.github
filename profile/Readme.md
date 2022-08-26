@@ -15,7 +15,11 @@ If you are willing to contribute to our software on [GitHub](https://github.com/
 
 For more information, please visit our different information and support channels:
 
-- [Seeed Online e-commerce](www.seeedstudio.com) 
-- [Seeed Forum](https://forum.seeedstudio.com/)
+- [Seeed Online Shop](www.seeedstudio.com) 
 - [Seeed Wiki](https://wiki.seeeedstudio.com/)
 - [Seeed Discord live support Channel](https://discord.gg/QqMgVwHT3X)
+- [Seeed Forum](https://forum.seeedstudio.com/)
+- [Seeed Project Hub](https://www.hackster.io/seeed)
+- [Seeed Twitter](https://twitter.com/seeedstudio)
+- [Seeed LinkedIn](https://www.linkedin.com/company/seeedstudio)
+- [Seeed YouTube](https://www.youtube.com/c/SeeedStudioSZ-)
