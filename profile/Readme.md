@@ -25,7 +25,7 @@ We value contributions and we provide the most active and constant contributors 
 For more information, please visit the following channels to learn more about our tech support, product, services, community projects and more:
 
 - [Seeed Online Shop](www.seeedstudio.com) 
-- [Seeed Wiki](https://wiki.seeeedstudio.com/)
+- [Seeed Wiki](https://wiki.seeedstudio.com/)
 - [Seeed Discord live support Channel](https://discord.gg/QqMgVwHT3X)
 - [Seeed Forum](https://forum.seeedstudio.com/)
 - [Seeed Project Hub](https://www.hackster.io/seeed)
