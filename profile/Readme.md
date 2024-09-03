@@ -1,6 +1,8 @@
 <img src="https://media-cdn.seeedstudio.com/media/logo/stores/4/logo_2018_horizontal.png" />
 
-#  🤗 Welcome to the Seeed Studio![GitHub Org's stars](https://img.shields.io/github/stars/Seeed-Studio) open source community!
+![GitHub Org's stars](https://img.shields.io/github/stars/Seeed-Studio) 
+
+#  🤗 Welcome to the Seeed Studio open source community!
 
 Since day one, open source is in our DNA. We'd love to have this community to host all our open source projects (including software, codes, documentation, and more), so that we can provide more easy-to-use toolsets to help every innovator to digitalize the world.
 
